@@ -1,0 +1,19 @@
+import引入
+export default 引出
+class ComponentHeader extends React.Component{
+	
+	render(){
+		return (
+	
+		)		
+	}
+	
+}
+组件创建
+ReactDOM.render(
+	
+	<Index/>,
+	document.getElementById('example')
+	
+)
+组建插入html

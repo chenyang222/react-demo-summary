@@ -1,0 +1,45 @@
+1.
+npm init  //出现package.json
+
+2.
+配置各种安装包
+npm install react --save-dev//安装并引用 React 模块
+npm install react react-dom --save-dev//添加react和react-dom
+npm install babel-preset-es2015 --save //添加ES6的支持
+npm install babel-preset-react --save  //添加ES6的转码规则
+npm install babel-loader babel-core --save-dev
+
+npm install react  react react-dom babel-preset-es2015 babel-preset-react babel-loader babel-core css-loader style-loader --save
+npm install babel-plugin-react-html-attrs --save
+npm install antd --save //样式UI框架
+npm install json-loader --save
+npm install babelify --save
+npm install react-router-dom --save
+npm install babel-plugin-import --save
+webpack热加载配置
+npm install -g webpack
+npm install -g webpack-dev-server
+npm install webpack --save
+npm install webpack-dev-server --save
+
+webpack --watch
+
+webpack-dev-server
+
+
+mixin支持组件
+npm install --save react-mixin@2
+
+移动端适配
+npm install react-responsive --save
+
+ajax包fetch
+npm install fetch --save
+
+npm install -d //将项目中package.json依赖的包全部下载到该项目中
+
+
+react router新版
+https://reacttraining.cn/
+
+
